@@ -1,4 +1,4 @@
-# **My Leetcode Solutions**
+# **Leetcode Solutions: Zenny's Personal Leetcode Solutions for Documentation Purposes**
 
 ## Description
 
