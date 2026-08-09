@@ -1,0 +1,3 @@
+# About the solution
+
+> Tbh idk what a good solution would be for this question as even the "optimal" ones sometimes come up slower than mine...
